@@ -1,6 +1,6 @@
 # mkdocs sources of the IJLRA Cheat Sheets website
 
-Website served @ ...
+Website served @ https://lam-ijlra.github.io/ijlra_cheat_sheets/
 
 
 ## OSX install
