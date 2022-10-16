@@ -21,7 +21,7 @@ They will help you when you're lost. You'll find them at the 5th floor, corridor
     - (optional) Call the key office to check that they're open: `01 44 27 38 75`.
     - Go get your key, taking either ID card or passport with you.
 
-![Screenshot](img/map_key_office.png)
+![Screenshot](img/map_key_office.jpg)
 
 
 ## Email account

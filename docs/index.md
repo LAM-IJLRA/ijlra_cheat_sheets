@@ -4,4 +4,4 @@ This is an Unofficial guide to things you might need during your stay at IJLRA. 
 
 To make things easier on your first day, fill in the [online form](http://inscription.dalembert.upmc.fr) 2 weeks before you show up.
 
-![Screenshot](img/map_jussieu.png)
+![Screenshot](img/map_jussieu.jpg)
