@@ -1,0 +1,19 @@
+site_name: IJLRA Cheat Sheets
+
+nav:
+    - Home: index.md
+    - IJLRA: ijlra.md
+    - IJLRA / LAM: lam.md
+    - IJLRA / LAM / Espaces Sonores: lam-es.md
+
+theme:
+    # name: readthedocs
+    # name: mkdocs
+    name: material
+    logo: img/logo.jpg
+    favicon: img/favicon.png
+
+    # material specific options
+    palette:
+      # primary: blue grey
+      primary: indigo
