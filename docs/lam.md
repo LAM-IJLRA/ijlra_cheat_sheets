@@ -25,7 +25,7 @@ Instructions to setup a time machine backup on Miles are available at `Miles/The
 
 ## Team Intranet
 
-Send a [mail to Pascal Lesaec](lesaec@lam.jussieu.fr), from the IT department, to get acces to the LAM intranet.
+Send a [mail to Pascal Lesaec](mailto:esaec@lam.jussieu.fr), from the IT department, to get acces to the LAM intranet.
 
 
 ## Shared calendar
