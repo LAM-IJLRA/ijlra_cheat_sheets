@@ -24,7 +24,7 @@
         
           
           
-          <meta name="theme-color" content="#4051b5">
+          <meta name="theme-color" content="#ffffff">
         
       
       
@@ -56,7 +56,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="indigo" data-md-color-accent="">
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="white" data-md-color-accent="">
   
     
     
@@ -355,6 +355,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#navigo-public-transport" class="md-nav__link">
+    Navigo (public transport)
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -543,6 +550,13 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#navigo-public-transport" class="md-nav__link">
+    Navigo (public transport)
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -592,15 +606,19 @@
 <li>Connect to the <a href="https://webmail.dalembert.upmc.fr/">online mail client</a></li>
 </ul>
 <h3 id="sorbonne-account">Sorbonne account</h3>
-<p>A secondary email address that is useful to access University related services. Mails sent to this address will (should) automatically be redirected to your D'Alembert account.</p>
+<p>A secondary email address, of the form <code>username@sorbonne-universite.fr</code>, that is useful to access University related services (Software, DropSU, etc.).
+You'll need a d'Alembert mail account to get it.
+Mails sent to this address will (should) automatically be redirected to your D'Alembert account.</p>
 <ul>
-<li>Once you have a D'Alembert email</li>
-<li>Send a <a href="mailto:simona.otarasanu@upmc.fr">mail to Simona Otarasanu</a> or go and see her: corridor 44/54, 5th floor, office 510.</li>
+<li>Send a <a href="mailto:simona.otarasanu@upmc.fr">mail to Simona Otarasanu</a> or go and see her: corridor 44/54, 5th floor, office 510. Ask for a Sorbonne University email address.</li>
 </ul>
 <h2 id="annuaire-upmc">Annuaire UPMC</h2>
-<p><span style="color:red">@todo</span></p>
+<p>You should automatically be assigned an account ID and password upon signing your contract with the university. Check that it works on the <a href="https://www.annuaire.upmc.fr">Annuaire UPMC webpage</a>.</p>
+<ul>
+<li>Send a <a href="mailto:simona.otarasanu@upmc.fr">mail to Simona Otarasanu</a> otherwise.</li>
+</ul>
 <h2 id="email-clients">Email Clients</h2>
-<p>You'll need your <a href="https://www.annuaire.upmc.fr/upmc/indexPage.upmc">Annuaire UPMC</a> account information to setup your email client. From there, setup with email client with:</p>
+<p>You'll need a d'Alembert mail account and an Annuaire UPMC account to setup your email client. Configure it with:</p>
 <ul>
 <li>
 <p>IMAP incoming mail server with the ID and password used to connect to d'Alembert <a href="https://webmail.dalembert.upmc.fr/">online mail client</a>, using <code>heywood.dalembert.upmc.fr</code> as host.</p>
@@ -611,41 +629,49 @@
 </ul>
 <p>Check the <a href="http://wiki.dalembert.upmc.fr/pmwiki/pmwiki.php?n=Dalembert.Messagerie#Comptes_dalembert.upmc.fr">D'Alembert Wiki</a> for additional information.</p>
 <h2 id="printers">Printers</h2>
-<p>Follow instructions on the <a href="http://wiki.dalembert.upmc.fr/pmwiki/pmwiki.php?n=Dalembert.Imprimantes">d'Alembert Wiki</a>.</p>
+<p>Follow the instructions on the <a href="http://wiki.dalembert.upmc.fr/pmwiki/pmwiki.php?n=Dalembert.Imprimantes">d'Alembert Wiki</a> for printers setup.</p>
 <h2 id="internet">Internet</h2>
 <h3 id="wired">Wired</h3>
 <ul>
 <li>
-<p>Find your computer and/or internet hub <strong>mac address</strong>.</p>
+<p>Find your computer and/or internet hub mac address.</p>
 </li>
 <li>
 <p>Send a <a href="mailto:info@dalembert.upmc.fr">mail to the IT department</a> or go and see them: corridor 55/65, 5th floor, office 507. Ask if your device can be enabled on the lab network.</p>
 </li>
 </ul>
 <h3 id="wireless">Wireless</h3>
-<p>Connect to <code>eduroam</code> with your Annuaire UPMC ID and password.</p>
+<p>Connect to <code>eduroam</code> with your Annuaire UPMC credentials.</p>
 <h2 id="access-ssh">Access ssh</h2>
+<p>Ssh access is useful when trying to access lab machines from remote networks.</p>
 <ul>
-<li>Create a public/private pair of ssh keys.</li>
-<li>Send a <a href="mailto:info@dalembert.upmc.fr">mail to the IT department</a> asking if you can be granted access to the lab via ssh on <code>vauban.dalembert.upmc.fr</code> or <code>chagall.dalembert.upmc.fr</code>.</li>
+<li>Create a public/private pair of ssh keys on your computer.</li>
+<li>Send a <a href="mailto:info@dalembert.upmc.fr">mail to the IT department</a> with you public ssh key, asking if you can be granted access to the lab via ssh on <code>vauban.dalembert.upmc.fr</code> and <code>chagall.dalembert.upmc.fr</code>.</li>
 </ul>
 <h2 id="lab-intranet">Lab intranet</h2>
 <ul>
 <li>Send a <a href="mailto:info@dalembert.upmc.fr">mail to the IT department</a> asking for an intranet account.</li>
 </ul>
+<p><span style="color:red">@todo</span></p>
 <h2 id="room-reservation">Room reservation</h2>
-<p>You'll need an access to the lab intranet</p>
+<p>You'll need an access to the lab intranet, then:</p>
 <ul>
-<li>Connect to the lab <a href="http://www.dalembert.upmc.fr/grr/week_all.php?area=2">room reservation service</a> with your d'Alembert intranet ID and password.</li>
+<li>Connect to the lab <a href="http://www.dalembert.upmc.fr/grr/week_all.php?area=2">room reservation service</a> with your d'Alembert intranet credentials.</li>
 </ul>
 <h2 id="crous-restaurant">Crous (restaurant)</h2>
-<p>You'll need an account on the Annuaire UPMC to get an account at the university restaurant.</p>
+<p>Once you have an Annuaire UPMC account:</p>
 <ul>
-<li>Go to the Crous building (see map on home page) with your account ID and an ID card or passport.</li>
-<li>(optional) Install the <a href="https://www.izly.fr/">Izly app</a> on your smartphone.</li>
+<li>
+<p>Go to the Crous building (see map on home page) with an ID card or passport. Find the help desk (to your right as you enter).</p>
+</li>
+<li>
+<p>(optional) Install the <a href="https://www.izly.fr/">Izly app</a> on your smartphone and link your account.</p>
+</li>
 </ul>
 <h2 id="software">Software</h2>
 <p>Check the <a href="http://logiciels.upmc.fr/fr/index.html">list of software</a> distributed by Sorbonne University.</p>
+<h2 id="navigo-public-transport">Navigo (public transport)</h2>
+<p><span style="color:red">@todo</span></p>
 
 
 
