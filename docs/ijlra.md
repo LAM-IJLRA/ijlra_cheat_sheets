@@ -1,3 +1,10 @@
+<!--
+---
+hide:
+  - footer
+---
+-->
+
 # IJLRA ([website](http://www.dalembert.upmc.fr))
 
 ## Your administrator
@@ -34,9 +41,9 @@ Your primary email address, of the form `username@dalembert.upmc.fr`.
 - Connect to the [online mail client](https://webmail.dalembert.upmc.fr/)
 
 
-### Sorbonne account
+### Sorbonne or UPMC account
 
-A secondary email address, of the form `username@sorbonne-universite.fr`, that is useful to access University related services (Software, DropSU, etc.).
+A secondary email address, of the form `username@sorbonne-universite.fr` or `username@upmc.fr` (both equivalent), that is useful to access University related services (Software, DropSU, etc.).
 You'll need a d'Alembert mail account to get it.
 Mails sent to this address will (should) automatically be redirected to your D'Alembert account.
 
@@ -80,9 +87,9 @@ Follow the instructions on the [d'Alembert Wiki](http://wiki.dalembert.upmc.fr/p
 Connect to `eduroam` with your Annuaire UPMC credentials.
 
 
-## Access ssh
+## ssh access
 
-Ssh access is useful when trying to access lab machines from remote networks.
+ssh access is useful when trying to access lab machines from remote networks.
 
 - Create a public/private pair of ssh keys on your computer.
 - Send a [mail to the IT department](mailto:info@dalembert.upmc.fr) with you public ssh key, asking if you can be granted access to the lab via ssh on `vauban.dalembert.upmc.fr` and `chagall.dalembert.upmc.fr`.
@@ -90,9 +97,10 @@ Ssh access is useful when trying to access lab machines from remote networks.
 
 ## Lab intranet
 
-- Send a [mail to the IT department](mailto:info@dalembert.upmc.fr) asking for an intranet account.
+You access to the lab intranet with your LDAP credentials. You already have an LDAP account if you asked for an "account on calculation room" when you filled in the [online welcome form](http://inscription.dalembert.upmc.fr) (check your mails).
 
-<span style="color:red">@todo</span>
+- Send a [mail to the IT department](mailto:info@dalembert.upmc.fr) asking for an intranet account otherwise.
+
 
 ## Room reservation
 

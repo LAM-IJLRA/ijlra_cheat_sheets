@@ -1,4 +1,4 @@
-# mkdocs sources of the IJLRA Cheat Sheets website
+# MkDocs sources of the IJLRA Cheat Sheets website
 
 Website served @ https://lam-ijlra.github.io/ijlra_cheat_sheets/
 

@@ -15,5 +15,22 @@ theme:
 
     # material specific options
     palette:
-      # primary: blue grey
-      primary: white
+        # primary: blue grey
+        primary: white
+
+    font:
+        text: Roboto
+        code: Roboto Mono
+
+    # features:
+    #     - header.autohide
+
+    copyright: Copyright &copy; 2016 - 2020 Martin Donath
+
+    # extra:
+    #     social:
+    #         - icon: fontawesome/brands/twitter
+    #           link: https://twitter.com/squidfunk
+    #           name: squidfunk on Twitter
+    #     # copyright: 2022 David Poirier-Q.
+    #     generator: false # remove mention "made with material for mkdocs"

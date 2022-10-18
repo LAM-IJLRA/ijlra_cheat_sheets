@@ -2,9 +2,10 @@
 
 ## DropSU
 
-DropSU is the Dropbox used by the group. To get a DropSU account:
+DropSU is the Dropbox used by the group. Use your Annuaire UPMC credentials (c.f. [IJLRA page](/ijlra)) for access
 
-- <span style="color:red">@todo</span>
+- In the browser via the [HTTP interface](https://dropsu.sorbonne-universite.fr).
+- In your explorer/finder using [Nextcloud](https://nextcloud.com/).
 
 
 ## Remote computers
