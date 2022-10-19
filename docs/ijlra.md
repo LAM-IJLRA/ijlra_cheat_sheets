@@ -118,6 +118,13 @@ Once you have an Annuaire UPMC account:
 - (optional) Install the [Izly app](https://www.izly.fr/) on your smartphone and link your account.
 
 
+## DropSU
+
+DropSU is a Dropbox equivalent used by the university. Use your Annuaire UPMC credentials for access:
+
+- In the browser via the [HTTP interface](https://dropsu.sorbonne-universite.fr).
+- In your explorer/finder using [Nextcloud](https://nextcloud.com/).
+
 
 ## Software
 
@@ -126,4 +133,7 @@ Check the [list of software](http://logiciels.upmc.fr/fr/index.html) distributed
 
 ## Navigo (public transport)
 
-<span style="color:red">@todo</span>
+The lab will reimburse part of your Navigo pass. This is only true for monthly or yearly subscriptions. To apply, bring your administrator:
+
+- A scan of your Navigo pass (both sides).
+- A proof of payment.

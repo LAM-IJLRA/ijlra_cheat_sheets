@@ -15,8 +15,10 @@ theme:
 
     # material specific options
     palette:
-        # primary: blue grey
-        primary: white
+        # scheme: perso
+        accent: amber
+        primary: yellow
+
 
     font:
         text: Roboto
@@ -25,12 +27,15 @@ theme:
     # features:
     #     - header.autohide
 
-    copyright: Copyright &copy; 2016 - 2020 Martin Donath
+copyright: David Poirier-Q.
 
-    # extra:
-    #     social:
-    #         - icon: fontawesome/brands/twitter
-    #           link: https://twitter.com/squidfunk
-    #           name: squidfunk on Twitter
-    #     # copyright: 2022 David Poirier-Q.
-    #     generator: false # remove mention "made with material for mkdocs"
+# extra_css:
+#     - stylesheets/extra.css
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://pyrapple.github.io/
+          # name: personal website
+    # copyright: 2022 David Poirier-Q.
+    # generator: false # remove mention "made with material for mkdocs"
