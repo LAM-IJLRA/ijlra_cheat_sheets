@@ -1,10 +1,3 @@
-<!--
----
-hide:
-  - footer
----
--->
-
 # IJLRA ([website](http://www.dalembert.upmc.fr))
 
 
