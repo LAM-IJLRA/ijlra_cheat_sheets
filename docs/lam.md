@@ -28,4 +28,4 @@ Send a mail to [Brian Katz](mailto:brian.katz@sorbonne-universite.fr) asking for
 ## Room reservation
 
 
-Use the LAM shared calendar to book the "Salle piano", "Salle nouvelle lutheries" or "MocapVR". Use the [anechoic room website](https://inscriptions.sorbonne-universite.fr/lime25/index.php/262726?lang=fr) for the anechoic room.
+Use the LAM shared calendar to book rooms like the "Salle piano" or "MocapVR". Use the [anechoic room website](https://inscriptions.sorbonne-universite.fr/lime25/index.php/262726?lang=fr) for the anechoic room.

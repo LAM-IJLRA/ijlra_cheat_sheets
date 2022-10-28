@@ -3,6 +3,7 @@ site_name: IJLRA Cheat Sheets
 nav:
     - Home: index.md
     - IJLRA: ijlra.md
+    - IJLRA / Administration: ijlra-extra-admin.md
     - IJLRA / LAM: lam.md
     - IJLRA / LAM / Espaces Sonores: lam-es.md
 

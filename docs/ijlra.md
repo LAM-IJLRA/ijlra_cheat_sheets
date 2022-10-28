@@ -7,15 +7,28 @@ hide:
 
 # IJLRA ([website](http://www.dalembert.upmc.fr))
 
+
+## Before you arrive
+
+Fill in the [online form](http://inscription.dalembert.upmc.fr) 2 weeks before you show up to automatically trigger:
+
+- Office allocation
+
+- Access key request
+
+- LDAP account creation (if you asked for an "account on calculation room" in the form), required to access the lab intranet.
+
+Ask your N+1 for details to fill the form.
+
+
 ## Your administrator
 
 They will help you when you're lost. You'll find them at the 5th floor, corridor 44-54. Check which team you're in to know who to look for:
 
-
 - Olivier Labbey (FCIH)
 - Catherine Dejancourt (MISES)
 - Sandrine Bandeira (LAM)
-- Evelyne Mignon (CEPT et MPIA)
+- Evelyne Mignon et Célia Sakho (CEPT et MPIA)
 
 
 ## Office and Key
@@ -77,6 +90,8 @@ Follow the instructions on the [d'Alembert Wiki](http://wiki.dalembert.upmc.fr/p
 
 ### Wired
 
+Only lab computers can connect to the lab network. If you have a new lab computer:
+
 - Find your computer and/or internet hub mac address.
 
 - Send a [mail to the IT department](mailto:info@dalembert.upmc.fr) or go and see them: corridor 55/65, 5th floor, office 507. Ask if your device can be enabled on the lab network.
@@ -109,11 +124,13 @@ You'll need an access to the lab intranet, then:
 - Connect to the lab [room reservation service](http://www.dalembert.upmc.fr/grr/week_all.php?area=2) with your d'Alembert intranet credentials.
 
 
-## Crous (restaurant)
+## Crous (University restaurant)
 
-Once you have an Annuaire UPMC account:
+Only available if you have a Sorbonne University or CNRS work contract. Once you have an Annuaire UPMC account:
 
-- Go to the Crous building (see map on home page) with an ID card or passport. Find the help desk (to your right as you enter).
+- Grab a copy of your work contract and your ID card or passport.
+
+- Go to the Crous building (see map on home page). Find the help desk (to your right as you enter).
 
 - (optional) Install the [Izly app](https://www.izly.fr/) on your smartphone and link your account.
 
